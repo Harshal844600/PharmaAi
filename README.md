@@ -159,7 +159,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- [Lovable](https://lovable.dev/) for the initial project template
 - [shadcn/ui](https://ui.shadcn.com/) for the beautiful UI components
 - [Groq](https://groq.com/) and [Google Gemini](https://gemini.google.com/) for AI capabilities
 
